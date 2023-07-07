@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: beige;
+    color: aqua;
+    height: 100px;
+    text-align: center;   
+}
+.main_content{
+    background-color: blue;
+    color: white;
+    height: 400px;
+    text-align: start;
+}
+.banner{
+display: flex;
+}
+.add_stuff{
+background-color:darkred ;
+color: whitesmoke;
+height: 350px;
+width: 50%;
+text-align: start;
+margin-bottom: 5%;
+}
+.navigation{
+background-color: darkgreen;
+color: antiquewhite;
+height: 400px;
+width: 50%;
+text-align: start;
+}
+footer{
+    background-color: black;
+    color: aqua;
+    height: 100px;
+    text-align: center;
+}
